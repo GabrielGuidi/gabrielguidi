@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there, I'm [Gabriel!](https://github.com/GabrielGuidi) 👋
 
-<!--
-**GabrielGuidi/gabrielguidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Guidi-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielguidi/)](https://www.linkedin.com/in/gabrielguidi/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielguidi1991@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielguidi1991@gmail.com)](mailto:gabrielguidi1991@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielguidi&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielguidi&theme=calm)
